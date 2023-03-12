@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Rahul, skills in 🖥️ software development, 📊 data analysis, and 🤖 machine learning. Seeking collaborative opportunities in 🌐 open source.</div>  
   
 
