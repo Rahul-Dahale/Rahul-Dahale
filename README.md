@@ -1,7 +1,7 @@
 ### <div align="center">I'm Rahul, skills in 🖥️ software development, 📊 data analysis, and 🤖 machine learning. Seeking collaborative opportunities in 🌐 open source.</div>  
   
 
-- 🔭 I’m currently working on [Python Chat Bot](https://github.com/Rahul-Dahale/Chat-Bot)  
+- 🔭 I’m currently working on [Python base Projects](https://github.com/Rahul-Dahale/)  
   
 
 - 🌱 I’m currently learning Block chain Development   
